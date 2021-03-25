@@ -1,7 +1,3 @@
-//
-// Created by Алексей Морозов on 12/10/2018.
-//
-
 #ifndef MATR_MATRIX_H
 #define MATR_MATRIX_H
 
