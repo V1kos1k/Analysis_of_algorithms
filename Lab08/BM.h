@@ -1,7 +1,3 @@
-//
-// Created by Алексей Морозов on 2018-12-17.
-//
-
 #ifndef LAB08_BM_H
 #define LAB08_BM_H
 
