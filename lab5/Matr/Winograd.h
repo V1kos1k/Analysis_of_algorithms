@@ -1,7 +1,3 @@
-//
-// Created by Алексей Морозов on 17/10/2018.
-//
-
 #ifndef MATR_WINOGRAD_H
 #define MATR_WINOGRAD_H
 
